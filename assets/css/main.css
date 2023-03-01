@@ -8,3 +8,8 @@
     --dark-color: black;
     --greyscale-color: #333333;
 }
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
