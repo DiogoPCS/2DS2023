@@ -1,0 +1,17 @@
+.navbar {
+    background: rgb(246,5,41);
+    background: linear-gradient(90deg, rgba(246,5,41,0.8463760504201681) 20%, rgba(237,246,242,0.5410539215686274) 43%, rgba(30,85,213,0.8267682072829132) 82%);
+}
+
+.navbar-brand, 
+.nav-link{
+    color: #fff;
+}
+
+img {
+    width: 100%!important;
+    height: 100%!important;
+}
+
+
+
