@@ -1,0 +1,15 @@
+.navbar{
+    background: #afafaf;
+    background: rgb(14,47,89);
+    background: linear-gradient(90deg, rgba(14,47,89,1) 0%, rgba(23,111,166,1) 27%, rgba(255,255,255,1) 47%, rgba(255,255,255,1) 51%, rgba(242,31,12,1) 75%, rgba(217,43,43,1) 100%);
+}
+
+.navbar-brand,
+.nav-link{
+    color: aliceblue;
+}
+
+.img-fluid{
+    width: 100% !important;
+    height: 100% !important;
+}
