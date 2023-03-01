@@ -1,0 +1,12 @@
+.navbar{
+    background: #4B89BF;
+background: radial-gradient(circle, #4B89BF 0%, #82B0D9 100%);
+}
+.navbar-brand,
+.nav-link{
+    color: white;
+}
+    img{
+        width: 100% !important;
+        height: 100% !important;
+    }
