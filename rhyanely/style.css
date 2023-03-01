@@ -1,0 +1,14 @@
+.navbar {
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, #A60311 0%, #BDD9F2 66%, #333333 84%, #333333 95%);
+}
+
+.navbar-brand,
+.nav-link {
+    color: rgb(17, 16, 16);
+}
+
+.img{
+    width: 100% !important;
+    height: 96% !important;
+}
